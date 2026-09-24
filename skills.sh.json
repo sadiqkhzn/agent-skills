@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Career and work",
+      "description": "Find companies where the user's experience solves a real problem, reach the decider, and propose a small trial without a large upfront commitment.",
+      "skills": ["pilot-first-outreach"]
+    }
+  ]
+}
